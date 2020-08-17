@@ -1,2 +1,2 @@
-# hard-rock-assignment
-# hard-rock-api-assignment
+# hard-rock-solution
+api link: https://api.lyrics.ovh/suggest/summer
